@@ -1,3 +1,4 @@
 # Sobre Docker
 
-Para utilizar a airflow foi instalado o Docker, o Anaconda e o VSCode
+Docker é uma plataforma de código aberto projetada para simplificar o processo de criação, implantação e execução de aplicativos em contêineres. 
+Os con
