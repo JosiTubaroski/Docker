@@ -54,6 +54,8 @@ Aguardar o termino da instalação
 2) <b>Contêineres:</b> O Docker usa contêineres para empacotar e isolar aplicativos juntamente com todas as suas dependências (bibliotecas, binários, arquivos de configuração, etc.) em um ambiente auto-suficiente. Os contêineres são executados no topo do sistema operacional host e compartilham os recursos do sistema operacional subjacente, tornando-os leves e eficientes.
 
 <img src="https://github.com/JosiTubaroski/Docker/blob/main/img/03_Container_Apartir_Imagem.png">
+
+- O Contêiner é tranferido entre maquinas, entre servidores, entre ambientes com a imagem lá dentro.
    
 
 
