@@ -65,7 +65,7 @@ Aguardar o termino da instalação
 
 https://hub.docker.com/
 
-Observação: No meu caso utilizei o acesso do github para acessar o docker hub
+<b>Observação:</b> No meu caso utilizei o acesso do github para acessar o docker hub
 
 <img src="https://github.com/JosiTubaroski/Docker/blob/main/img/04_Hub_Docker.png">
 
