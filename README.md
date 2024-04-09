@@ -29,3 +29,5 @@ equipes de desenvolvimento e operações de TI.
 
 
 A história do Docker remonta ao ano de 2013, quando Solomon Hykes, fundador da dotCloud, uma plataforma de hospedagem de aplicativos, criou uma ferramenta interna chamada "dotCloud Container Manager" para facilitar a implantação e gerenciamento de aplicativos em contêineres Linux.
+
+# Instalando Docker no Windows
