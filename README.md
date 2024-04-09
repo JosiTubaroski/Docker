@@ -27,7 +27,6 @@ equipes de desenvolvimento e operações de TI.
 
 # Um pouco sobre a história do Docker
 
-
 A história do Docker remonta ao ano de 2013, quando Solomon Hykes, fundador da dotCloud, uma plataforma de hospedagem de aplicativos, criou uma ferramenta interna chamada "dotCloud Container Manager" para facilitar a implantação e gerenciamento de aplicativos em contêineres Linux.
 
 # Download e Instalação do Docker no Windows
@@ -37,3 +36,9 @@ A história do Docker remonta ao ano de 2013, quando Solomon Hykes, fundador da 
 <img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Instalando_Docker.png">
 
 Aguardar o termino da instalação
+
+### Verificar a versão do docker instalada
+1) Abra o prompt de comando. Você pode fazer isso pressionando as teclas "Windows + R" para abrir a caixa de diálogo "Executar", digitando "cmd" e pressionando Enter.
+
+2) No prompt de comando, digite o seguinte comando:
+
