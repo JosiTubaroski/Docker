@@ -45,5 +45,19 @@ Aguardar o termino da instalação
 
 <img src="https://github.com/JosiTubaroski/Docker/blob/main/img/01_Verificar_VersaoDocker.png">
 
+### Como funciona o Docker
+
+1) <b>Imagens Docker:</b> Uma imagem Docker é um pacote de software que contém todo o código necessário para executar um aplicativo, juntamente com suas dependências. As imagens são usadas como base para criar contêineres em tempo de execução. Elas são criadas a partir de um arquivo de configuração chamado Dockerfile, que especifica como o ambiente do contêiner deve ser configurado.
+
+<img src="https://github.com/JosiTubaroski/Docker/blob/main/img/02_Como_Funciona_Docker.png">
+
+2) <b>Contêineres:</b> O Docker usa contêineres para empacotar e isolar aplicativos juntamente com todas as suas dependências (bibliotecas, binários, arquivos de configuração, etc.) em um ambiente auto-suficiente. Os contêineres são executados no topo do sistema operacional host e compartilham os recursos do sistema operacional subjacente, tornando-os leves e eficientes.
+
+<img src="https://github.com/JosiTubaroski/Docker/blob/main/img/03_Container_Apartir_Imagem.png">
+   
+
+
+
+
 
 
