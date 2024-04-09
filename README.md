@@ -61,6 +61,15 @@ Aguardar o termino da instalação
    
 <b>Docker Hub:</b> O Docker Hub é um serviço de registro de contêineres que permite armazenar, compartilhar e distribuir imagens Docker. Ele fornece acesso a uma grande variedade de imagens Docker pré-construídas, permitindo que os desenvolvedores economizem tempo e esforço na configuração de ambientes de desenvolvimento e implantação.
 
+## Acessando o hub docker
+
+https://hub.docker.com/
+
+Observação: No meu caso utilizei o acesso do github para acessar o docker hub
+
+<img src="https://github.com/JosiTubaroski/Docker/blob/main/img/04_Hub_Docker.png">
+
+
 
 
 
