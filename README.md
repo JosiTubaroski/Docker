@@ -45,7 +45,5 @@ Aguardar o termino da instalação
 
 <img src="https://github.com/JosiTubaroski/Docker/blob/main/img/01_Verificar_VersaoDocker.png">
 
-Além disso, você pode usar o Docker Desktop para verificar a versão do Docker:
 
-3) 
 
