@@ -56,8 +56,10 @@ Aguardar o termino da instalação
 <img src="https://github.com/JosiTubaroski/Docker/blob/main/img/03_Container_Apartir_Imagem.png">
 
 - O Contêiner é tranferido entre maquinas, entre servidores, entre ambientes com a imagem lá dentro.
-   
 
+### O que é Docker Hub
+   
+<b>Docker Hub:</b> O Docker Hub é um serviço de registro de contêineres que permite armazenar, compartilhar e distribuir imagens Docker. Ele fornece acesso a uma grande variedade de imagens Docker pré-construídas, permitindo que os desenvolvedores economizem tempo e esforço na configuração de ambientes de desenvolvimento e implantação.
 
 
 
