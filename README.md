@@ -37,8 +37,15 @@ A história do Docker remonta ao ano de 2013, quando Solomon Hykes, fundador da 
 
 Aguardar o termino da instalação
 
-### Verificar a versão do docker instalada
+### Verificar a versão do docker instalado
+
 1) Abra o prompt de comando. Você pode fazer isso pressionando as teclas "Windows + R" para abrir a caixa de diálogo "Executar", digitando "cmd" e pressionando Enter.
 
-2) No prompt de comando, digite o seguinte comando:
+2) No prompt de comando, digite o seguinte comando <b>'docker --version'</b> e pressione Enter:
+
+<img src="https://github.com/JosiTubaroski/Docker/blob/main/img/01_Verificar_VersaoDocker.png">
+
+Além disso, você pode usar o Docker Desktop para verificar a versão do Docker:
+
+3) 
 
