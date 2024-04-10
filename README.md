@@ -72,7 +72,7 @@ https://hub.docker.com/
 # Criando a minha primeira imagem com Docker
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Docker">01. Primeira imagem com Docker</a></p>
+<p><a href="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/README.md">01. Primeira imagem com Docker</a></p>
 </div> 
 
 
