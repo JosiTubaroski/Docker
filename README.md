@@ -69,6 +69,12 @@ https://hub.docker.com/
 
 <img src="https://github.com/JosiTubaroski/Docker/blob/main/img/04_Hub_Docker.png">
 
+# Criando a minha primeira imagem com Docker
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Docker">01. Primeira imagem com Docker</a></p>
+</div> 
+
 
 
 
