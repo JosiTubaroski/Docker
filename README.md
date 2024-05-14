@@ -75,6 +75,14 @@ https://hub.docker.com/
 <p><a href="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/README.md">01. Primeira imagem com Docker</a></p>
 </div> 
 
+# Linux
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Linux/blob/main/README.md">01. O basico de linux para gerenciamento e configuração de ambiente.</a></p>
+</div> 
+
+
+
 
 
 
