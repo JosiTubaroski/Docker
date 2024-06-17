@@ -79,6 +79,11 @@ https://hub.docker.com/
 
 # Criando imagem Docker
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Criando-Imagens-Docker/tree/main">01. O basico de linux para gerenciamento e configuração de ambiente.</a></p>
+</div> 
+
+
 
 
 
