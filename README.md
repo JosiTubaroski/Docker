@@ -68,19 +68,19 @@ https://hub.docker.com/
 # O Docker
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/README.md">01. Primeira imagem com Docker</a></p>
+<p><a href="https://github.com/JosiTubaroski/PrimeiraImagem/blob/main/README.md">01. O Docker</a></p>
 </div> 
 
 # Linux
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Linux/blob/main/README.md">01. O basico de linux para gerenciamento e configuração de ambiente.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Linux/blob/main/README.md">02. O basico de linux para gerenciamento e configuração de ambiente.</a></p>
 </div> 
 
 # Criando imagem Docker
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Criando-Imagens-Docker/tree/main">01. O basico de linux para gerenciamento e configuração de ambiente.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Criando-Imagens-Docker/tree/main">03. Criando imagens docker.</a></p>
 </div> 
 
 
